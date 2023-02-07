@@ -1,0 +1,15 @@
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\bin\Debug\net6.0\8pz.exe
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\bin\Debug\net6.0\8pz.deps.json
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\bin\Debug\net6.0\8pz.runtimeconfig.json
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\bin\Debug\net6.0\8pz.dll
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\bin\Debug\net6.0\8pz.pdb
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.AssemblyInfoInputs.cache
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.AssemblyInfo.cs
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.dll
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\refint\8pz.dll
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.pdb
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\8pz.genruntimeconfig.cache
+C:\Users\Julia\Desktop\UNIVER\ОИБ\8pz\8pz\obj\Debug\net6.0\ref\8pz.dll
